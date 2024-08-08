@@ -20,6 +20,8 @@ body {
     font-size: 36px; /* Large text for the name */
     margin: 0;
     color: #333; /* Dark text color */
+    text-transform: uppercase; /* Convert text to uppercase */
+
 }
 
 .nav-links {
@@ -28,7 +30,7 @@ body {
 
 .nav-links a {
     font-size: 16px; /* Smaller text for the links */
-    color: #007bff; /* Blue color for links */
+    color: #333; /* Blue color for links */
     text-decoration: none;
     margin: 0 10px; /* Spacing between links */
 }
