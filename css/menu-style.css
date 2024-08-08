@@ -24,6 +24,16 @@ body {
 
 }
 
+.name-link {
+    color: inherit; /* Use the same color as the parent element */
+    text-decoration: none; /* Remove underline from the link */
+}
+
+.name-link:hover {
+    text-decoration: underline; /* Optional: underline on hover */
+}
+
+
 .nav-links {
     margin-top: 10px;
 }
