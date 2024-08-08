@@ -18,17 +18,17 @@ button {
 
 .embla__button,
 .carousel-control {
-  background-color: #edefea !important;
+  background-color: #ffffff !important;
   opacity: 0.8 !important;
   color: #464845 !important;
-  border-color: #edefea !important;
+  border-color: #ffffff !important;
 }
 
 .carousel .close,
 .modalWindow .close {
-  background-color: #edefea !important;
+  background-color: #ffffff !important;
   color: #464845 !important;
-  border-color: #edefea !important;
+  border-color: #ffffff !important;
   opacity: 0.8 !important;
 }
 
@@ -38,7 +38,7 @@ button {
 }
 
 .carousel-indicators li {
-  background-color: #edefea !important;
+  background-color: #ffffff !important;
   border: 2px solid #464845 !important;
 }
 
@@ -49,7 +49,7 @@ button {
 
 .embla__button:hover,
 .carousel-control:hover {
-  background-color: #edefea !important;
+  background-color: #ffffff !important;
   opacity: 1 !important;
 }
 
