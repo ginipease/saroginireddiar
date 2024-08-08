@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #f5f5f5; /* Light background color */
+    padding: 10px;
+    border-bottom: 1px solid #ddd; /* Subtle bottom border */
+}
+
+.header-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.name {
+    font-size: 36px; /* Large text for the name */
+    margin: 0;
+    color: #333; /* Dark text color */
+}
+
+.nav-links {
+    margin-top: 10px;
+}
+
+.nav-links a {
+    font-size: 16px; /* Smaller text for the links */
+    color: #007bff; /* Blue color for links */
+    text-decoration: none;
+    margin: 0 10px; /* Spacing between links */
+}
+
+.nav-links a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
+
+.separator {
+    font-size: 16px;
+    color: #333; /* Same color as links for the separator */
+}
