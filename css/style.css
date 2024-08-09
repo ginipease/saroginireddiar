@@ -956,3 +956,14 @@ blockquote {
     left: -100% !important;
   }
 }
+
+table {
+    margin-left: 0; /* Align the table to the left */
+    width: 100%; /* Optional: Makes the table take up the full width of its container */
+    text-align: left; /* Ensure text in all cells is left-aligned */
+}
+
+th, td {
+    text-align: left; /* Ensure text in table headers and cells is left-aligned */
+}
+
