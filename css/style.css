@@ -967,9 +967,4 @@ th, td {
     text-align: left; /* Ensure text in table headers and cells is left-aligned */
 }
 
-table .title {
-    font-weight: bold;
-    background-color: #e0e0e0;
-    text-align: center;
-    padding-top: 20px; /* Adds space inside the title cell */
-}
+
