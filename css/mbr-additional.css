@@ -609,7 +609,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #e76f51;
+  background-color: #ffffff;
   border-color: #e76f51;
   color: #ffffff;
 }
