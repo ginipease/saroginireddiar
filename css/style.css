@@ -958,13 +958,15 @@ blockquote {
 }
 
 table {
-    margin-left: 0; /* Align the table to the left */
-    width: 100%; /* Optional: Makes the table take up the full width of its container */
-    text-align: left; /* Ensure text in all cells is left-aligned */
+    margin-left: 150px; /* Fixed indentation from the left */
+    width: calc(100% - 150px); /* Ensures the table width accounts for the left margin */
+    text-align: left; /* Left-align text in table cells */
+    border-collapse: collapse; /* Optional: Collapses table borders */
 }
 
 th, td {
     text-align: left; /* Ensure text in table headers and cells is left-aligned */
+    padding: 8px; /* Optional: Adds padding inside table cells */
 }
 
 
