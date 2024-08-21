@@ -176,7 +176,7 @@ body {
 .btn-primary.active {
   color: inherit;
   background-color: #ffffff !important;
-  border-color: #ed947e !important;
+  border-color: #ffffff !important;
   box-shadow: none;
 }
 .btn-primary.disabled,
