@@ -149,24 +149,24 @@ body {
   border-radius: 4px;
 }
 .bg-primary {
-  background-color: #e76f51 !important;
+  background-color: #ffffff !important;
 }
 .bg-success {
-  background-color: #2dd889 !important;
+  background-color: #ffffff !important;
 }
 .bg-info {
-  background-color: #13cdf2 !important;
+  background-color: #ffffff !important;
 }
 .bg-warning {
-  background-color: #ffc106 !important;
+  background-color: #ffffff !important;
 }
 .bg-danger {
-  background-color: #da2b3c !important;
+  background-color: #ffffff !important;
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #e76f51 !important;
-  border-color: #e76f51 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -175,20 +175,20 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: inherit;
-  background-color: #ed947e !important;
+  background-color: #ffffff !important;
   border-color: #ed947e !important;
   box-shadow: none;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #ed947e !important;
-  border-color: #ed947e !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #2a9d8f !important;
-  border-color: #2a9d8f !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -197,15 +197,15 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: inherit;
-  background-color: #35c5b4 !important;
-  border-color: #35c5b4 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   box-shadow: none;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #35c5b4 !important;
-  border-color: #35c5b4 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-info,
 .btn-info:active {
@@ -219,8 +219,8 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: inherit;
-  background-color: #43d7f5 !important;
-  border-color: #43d7f5 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   box-shadow: none;
 }
 .btn-info.disabled,
@@ -231,8 +231,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #2dd889 !important;
-  border-color: #2dd889 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   color: #ffffff !important;
   box-shadow: none;
 }
