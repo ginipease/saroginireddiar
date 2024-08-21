@@ -1428,7 +1428,7 @@ a {
 }
 .cid-ucaYyqc0aa .copyright {
   color: #000000;
-  text-align: left;
+  text-align: center;
 }
 .cid-ucaYyqc0aa .center {
   display: flex;
@@ -1450,7 +1450,7 @@ a {
 .cid-ucaYyqc0aa .row-links .row-links-soc {
   list-style: none;
   display: flex;
-  justify-content: right;
+  justify-content: center;
   flex-wrap: wrap;
   padding: 0;
   margin-bottom: 0;
