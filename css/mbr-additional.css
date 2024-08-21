@@ -241,20 +241,20 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: inherit;
-  background-color: #58e0a1 !important;
-  border-color: #58e0a1 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   box-shadow: none;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #58e0a1 !important;
-  border-color: #58e0a1 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #ffc106 !important;
-  border-color: #ffc106 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -263,20 +263,20 @@ body {
 .btn-warning.focus,
 .btn-warning.active {
   color: inherit;
-  background-color: #ffce39 !important;
-  border-color: #ffce39 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   box-shadow: none;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #ffce39 !important;
-  border-color: #ffce39 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #da2b3c !important;
-  border-color: #da2b3c !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   color: #ffffff !important;
   box-shadow: none;
 }
@@ -285,21 +285,21 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: inherit;
-  background-color: #e25664 !important;
-  border-color: #e25664 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   box-shadow: none;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #e25664 !important;
-  border-color: #e25664 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-white,
 .btn-white:active {
-  background-color: #eff0ec !important;
-  border-color: #eff0ec !important;
-  color: #757b62 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+  color: #ffffff !important;
   box-shadow: none;
 }
 .btn-white:hover,
@@ -329,8 +329,8 @@ body {
 .btn-black.focus,
 .btn-black.active {
   color: inherit;
-  background-color: #3d3d3d !important;
-  border-color: #3d3d3d !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
   box-shadow: none;
 }
 .btn-black.disabled,
