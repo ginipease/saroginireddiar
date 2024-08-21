@@ -7,7 +7,7 @@ body {
 .header {
     background-color: #ffffff; /* Light background color */
     padding: 10px;
-    border-bottom: 1px solid #ddd; /* Subtle bottom border */
+    border-bottom: 1px solid #ffffff; /* Subtle bottom border */
 }
 
 .header-content {
